@@ -8,7 +8,7 @@ require (
 	github.com/akyoto/color v1.8.12
 	github.com/cavaliergopher/grab/v3 v3.0.1
 	github.com/cevaris/ordered_map v0.0.0-20190319150403-3adeae072e73
-	github.com/go-ole/go-ole v1.2.6
+	github.com/go-ole/go-ole v1.3.0
 	github.com/hako/durafmt v0.0.0-20210608085754-5c1018a4e16b
 	github.com/josephspurrier/goversioninfo v1.4.0
 	github.com/kevinburke/go-bindata v3.24.0+incompatible
@@ -16,7 +16,7 @@ require (
 	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2
 	github.com/miekg/dns v1.1.50
 	github.com/pkg/errors v0.9.1
-	golang.org/x/sys v0.0.0-20220513210249-45d2b4557a2a
+	golang.org/x/sys v0.1.0
 )
 
 require (
