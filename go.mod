@@ -10,7 +10,7 @@ require (
 	github.com/cevaris/ordered_map v0.0.0-20190319150403-3adeae072e73
 	github.com/go-ole/go-ole v1.2.6
 	github.com/hako/durafmt v0.0.0-20210608085754-5c1018a4e16b
-	github.com/josephspurrier/goversioninfo v1.4.0
+	github.com/josephspurrier/goversioninfo v1.7.0
 	github.com/kevinburke/go-bindata v3.24.0+incompatible
 	github.com/magefile/mage v1.14.0
 	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2
